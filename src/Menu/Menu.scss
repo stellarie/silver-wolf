@@ -1,0 +1,25 @@
+.cmp-menu {
+    display: flex;
+    align-items: center;
+
+    .menu-bar {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 25vh;
+
+        .item, a {
+            display: flex;
+            justify-content: center;
+            margin: 0 50px;
+            width: 200px;
+            transition: all 0.5s ease;
+
+            &:hover {
+                cursor: pointer;
+                color: #ba1e68;
+            }
+        }
+    }
+}

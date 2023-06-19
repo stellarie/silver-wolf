@@ -1,0 +1,23 @@
+.cmp-model-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    .header {
+        font-weight: 300;
+        font-size: 45px;
+    }
+
+    .model {
+        height: 50vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+
+        canvas {
+            max-width: 90vw;
+        }
+    }
+}
