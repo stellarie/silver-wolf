@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/silver-wolf/static/css/main.0aef96a8.css",
+    "main.js": "/silver-wolf/static/js/main.eee530eb.js",
+    "static/js/787.d0e81cd9.chunk.js": "/silver-wolf/static/js/787.d0e81cd9.chunk.js",
+    "index.html": "/silver-wolf/index.html",
+    "main.0aef96a8.css.map": "/silver-wolf/static/css/main.0aef96a8.css.map",
+    "main.eee530eb.js.map": "/silver-wolf/static/js/main.eee530eb.js.map",
+    "787.d0e81cd9.chunk.js.map": "/silver-wolf/static/js/787.d0e81cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aef96a8.css",
+    "static/js/main.eee530eb.js"
+  ]
+}
