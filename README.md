@@ -1,2 +1,3 @@
-# Dedicated to the one and only Silver Wolf.
+threeJS practice repo
+
 ## Please make a pull request for requests/contributions.
